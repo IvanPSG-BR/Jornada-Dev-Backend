@@ -135,13 +135,13 @@ Aqui será o índice para todos os arquivos localizados em [assuntos](./assuntos
 
 - [Projetos Pessoais](./projetos)
   
-  - [Tasksmith](./projetos/tasksmith)
+  - [Tasksmith](./projetos/Tasksmith.md)
   
-  - [AcompanheUmJuninho](./projetos/acompanhe-um-juninho)
+  - [AcompanheUmJuninho](./projetos/Acompanhe-Um-Juninho.md)
   
-  - [NerdOS](./projetos/nerdos)
+  - [NerdOS](./projetos/NerdOS.md)
   
-  - [StarPiece](./projetos/starpiece)
+  - [StarPiece](./projetos/StarPiece.md)
 
 
 
