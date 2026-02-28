@@ -54,32 +54,32 @@ E é *por isso mesmo* que eu bolei um plano base de 2 anos (iniciando em 2026) *
 
 ## O Plano
 
-| Trimestre                  | Mês    | Foco Principal                     | Projetos e Aplicação Prática                             | Tópicos de Estudo                                                                                                      |
-| -------------------------- | ------ | ---------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Q1: Fundamentos            | Mês 1  | Base do Projeto                    | NerdOS                                                   | ---                                                                                                                    |
-|                            | Mês 2  | Base do Projeto, Testes e Feedback | NerdOS                                                   | SQL Básico (CRUD, Agregações, Ordenações). SOLID (S).                                                                  |
-|                            | Mês 3  | SQL Profundo                       | NerdOS                                                   | Testes Unitários (Jest) e Testes de Integração (Supertest). SOLID (S e D).                                             |
-| Q2: Entrega e CI/CD        | Mês 4  | Deploy e Express                   | Fim do MVP do NerdOS + Início do Projeto em Trio         | PostgreSQL (Joins, Índices, Tipos de dados do Postgres e Views). Docker (Básico -> Intermediário).                     |
-|                            | Mês 5  | Planejamento Profundo              | Flynances e Outros...                                    | Planejamento SDLC. Lógica de Programação, Estrutura de Dados e Algoritmos (Básico)                                     |
-|                            | Mês 6  | Desenvolvimento para Eventos       | Flynances e Outros...                                    | Treinamento para Hackathons                                                                                            |
-| Q3: Microsserviços (Local) | Mês 7  | Arquitetura Distribuída            | Início do StarPiece Microsserviços                       | Microsserviços (Conceitos). Modelagem de Dados para Microsserviços.                                                    |
-|                            | Mês 8  | Messageria na Prática              | StarPiece (Auth + Notifications-Service)                 | Messageria (BullMQ/Redis). Padrões de Eventos. Comunicação Assíncrona.                                                 |
-|                            | Mês 9  | Outros Módulos                     | StarPiece (Jams-Service, etc...)                         | Aplicação de Regras de Negócio                                                                                         |
-| Q4: Microsserviços (Cloud) | Mês 10 | NoSQL                              | Faça Festa (Refatoração em NoSQL)                        | Micro Projeto Simples com MongoDB para aprendizado NoSQL                                                               |
-|                            | Mês 11 | Deploy na Nuvem                    | StarPiece (Deploy de 3+ serviços)                        | Cloud (Nível 2 - Cloud Run/App Runner, Serviços Gerenciados).                                                          |
-|                            | Mês 12 | Observabilidade                    | StarPiece (Refatorar Logs e Tracing)                     | Logging Estruturado (JSON). Métricas (OpenTelemetry).                                                                  |
-| Q1: Polimento              | Mês 13 | Portfólio & Revisão                | StarPiece (Diagramas) e Outros Projetos                  | Documentação (READMEs e Diagramas). Refatoração do Portfólio (Design e Conteúdo).                                      |
-|                            | Mês 14 | Preparação Técnica                 | Resolução de problemas                                   | Estrutura de Dados & Algoritmos (Intermediário).                                                                       |
-|                            | Mês 15 | Entrevistas                        | Simulações                                               | System Design (Explicar a arquitetura StarPiece).                                                                      |
-| Q2: Emprego e Cloud        | Mês 16 | Cloud Avançado                     | Escolha um serviço na Nuvem e aprofunde.                 | Cloud (Certificação: AWS Cloud Practitioner ou GCP Digital Leader).                                                    |
-|                            | Mês 17 | Padrões de Arquitetura             | Refatorar uma parte do StarPiece.                        | Design Patterns (GoF), CQRS, Padrões do Backend.                                                                       |
-|                            | Mês 18 | Networking/OS                      | Contribuições Open Source.                               | Introdução a Sistemas Operacionais (Threads, Processos).                                                               |
-| Q3: Início do C#           | Mês 19 | Fundamentos C#                     | Projeto de Estudo Simples (C# CLI)                       | Sintaxe C#, Ecossistema .NET.                                                                                          |
-|                            | Mês 20 | Primeira API .NET                  | Recriar um serviço do StarPiece (ex: jams-service) em C# | ASP.NET Core (Framework Web). Entity Framework Core (ORM).                                                             |
-|                            | Mês 21 | Comparação                         | Fazer as APIs Node.js e C# se comunicarem                | Testes em C# (xUnit/NUnit). Entendimento da diferença entre Event Loop e Multi-threading.                              |
-| Q4: Solidificação          | Mês 22 | Performance C#                     | Otimização da API C#                                     | Conceitos de Tasks (assincronicidade em C#), LINQ.                                                                     |
-|                            | Mês 23 | Ecossistema .NET                   | Projeto C# completo                                      | Padrão MediatR (para CQRS em C#).                                                                                      |
-|                            | Mês 24 | Planejamento de Carreira           | Revisão Geral                                            | Decisão de Foco (Node.js/TS ou C#/.NET). Preparação para vaga de Pleno (se já empregado) ou Júnior (se não empregado). |
+| Trimestre                  | Mês    | Foco Principal               | Projetos e Aplicação Prática                             | Tópicos de Estudo                                                                                                      |
+| -------------------------- | ------ | ---------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Q1: Fundamentos            | Mês 1  | ---                          | ---                                                      | ---                                                                                                                    |
+|                            | Mês 2  | Volta ao Projeto             | NerdOS                                                   | SOLID (S).                                                                                                             |
+|                            | Mês 3  | SQL Profundo                 | NerdOS                                                   | SQL Básico (CRUD, Agregações, Ordenações). SOLID (S e D).                                                              |
+| Q2: Entrega e CI/CD        | Mês 4  | Deploy e Express             | Fim do MVP do NerdOS + Início do Projeto em Trio         | PostgreSQL (Joins, Índices, Tipos de dados do Postgres e Views). Docker (Básico -> Intermediário).                     |
+|                            | Mês 5  | Planejamento Profundo        | Flynances e Outros...                                    | Planejamento SDLC. Lógica de Programação, Estrutura de Dados e Algoritmos (Básico)                                     |
+|                            | Mês 6  | Desenvolvimento para Eventos | Flynances e Outros...                                    | Treinamento para Hackathons                                                                                            |
+| Q3: Microsserviços (Local) | Mês 7  | Arquitetura Distribuída      | Início do StarPiece Microsserviços                       | Microsserviços (Conceitos). Modelagem de Dados para Microsserviços.                                                    |
+|                            | Mês 8  | Messageria na Prática        | StarPiece (Auth + Notifications-Service)                 | Messageria (BullMQ/Redis). Padrões de Eventos. Comunicação Assíncrona.                                                 |
+|                            | Mês 9  | Outros Módulos               | StarPiece (Jams-Service, etc...)                         | Aplicação de Regras de Negócio                                                                                         |
+| Q4: Microsserviços (Cloud) | Mês 10 | NoSQL                        | Faça Festa (Refatoração em NoSQL)                        | Micro Projeto Simples com MongoDB para aprendizado NoSQL                                                               |
+|                            | Mês 11 | Deploy na Nuvem              | StarPiece (Deploy de 3+ serviços)                        | Cloud (Nível 2 - Cloud Run/App Runner, Serviços Gerenciados).                                                          |
+|                            | Mês 12 | Observabilidade              | StarPiece (Refatorar Logs e Tracing)                     | Logging Estruturado (JSON). Métricas (OpenTelemetry).                                                                  |
+| Q1: Polimento              | Mês 13 | Portfólio & Revisão          | StarPiece (Diagramas) e Outros Projetos                  | Documentação (READMEs e Diagramas). Refatoração do Portfólio (Design e Conteúdo).                                      |
+|                            | Mês 14 | Preparação Técnica           | Resolução de problemas                                   | Estrutura de Dados & Algoritmos (Intermediário).                                                                       |
+|                            | Mês 15 | Entrevistas                  | Simulações                                               | System Design (Explicar a arquitetura StarPiece).                                                                      |
+| Q2: Emprego e Cloud        | Mês 16 | Cloud Avançado               | Escolha um serviço na Nuvem e aprofunde.                 | Cloud (Certificação: AWS Cloud Practitioner ou GCP Digital Leader).                                                    |
+|                            | Mês 17 | Padrões de Arquitetura       | Refatorar uma parte do StarPiece.                        | Design Patterns (GoF), CQRS, Padrões do Backend.                                                                       |
+|                            | Mês 18 | Networking/OS                | Contribuições Open Source.                               | Introdução a Sistemas Operacionais (Threads, Processos).                                                               |
+| Q3: Início do C#           | Mês 19 | Fundamentos C#               | Projeto de Estudo Simples (C# CLI)                       | Sintaxe C#, Ecossistema .NET.                                                                                          |
+|                            | Mês 20 | Primeira API .NET            | Recriar um serviço do StarPiece (ex: jams-service) em C# | ASP.NET Core (Framework Web). Entity Framework Core (ORM).                                                             |
+|                            | Mês 21 | Comparação                   | Fazer as APIs Node.js e C# se comunicarem                | Testes em C# (xUnit/NUnit). Entendimento da diferença entre Event Loop e Multi-threading.                              |
+| Q4: Solidificação          | Mês 22 | Performance C#               | Otimização da API C#                                     | Conceitos de Tasks (assincronicidade em C#), LINQ.                                                                     |
+|                            | Mês 23 | Ecossistema .NET             | Projeto C# completo                                      | Padrão MediatR (para CQRS em C#).                                                                                      |
+|                            | Mês 24 | Planejamento de Carreira     | Revisão Geral                                            | Decisão de Foco (Node.js/TS ou C#/.NET). Preparação para vaga de Pleno (se já empregado) ou Júnior (se não empregado). |
 
 Esse plano é apenas uma base de referência que pode se estender por mais tempo. Mesmo assim, deixo a mensagem para o Ivan do futuro: por favor, faça.
 
@@ -117,7 +117,7 @@ Aqui será o índice para todos os arquivos localizados em [assuntos](./assuntos
   
   - [Tasksmith](./projetos/Tasksmith.md)
   
-  - [AcompanheUmJuninho](./projetos/Acompanhe-Um-Juninho.md)
+  - ~~[AcompanheUmJuninho](./projetos/Acompanhe-Um-Juninho.md)~~
   
   - [NerdOS](./projetos/NerdOS.md)
   
@@ -125,6 +125,18 @@ Aqui será o índice para todos os arquivos localizados em [assuntos](./assuntos
 
 ---
 
-## Cronologia do Aprendizado
+## Relatório do Aprendizado Mensal
 
-Esse vai ser o registro da evolução em tempo cronológico.
+### Mês 1 & 2
+
+Em Janeiro ainda estava "atordoado" pela sensação de férias de final/começo de ano. Portanto, tirei para descansar e não produzi.
+
+Fevereiro chegou e (bem) lentamente fui voltando ao ritmo. Não consegui exercitar meu SQL, mas terei muita oportunidade de fazer isso durante a faculdade, que adentrei esse ano. Apesar disso, fui reacostumando ao meu projeto atual, o NerdOS, e consegui pôr em prática um pouco de Docker (comandos, YAML do Docker Compose) e ir desenvolvendo mais minhas noções de Segregação de Responsabilidades.
+
+Nesse meio tempo também resgatei os benefícios de estudante do Github (dentre eles Copilot Pro, Créditos na Azure e DigitalOcean, nomes de subdomínio, etc), que vão auxiliar muito no meu aprendizado.
+
+Agora, com o início do 3º mês, os focos serão:
+
+- Adaptação ao ambiente universitário
+- Foco no desenvolvimento (e aprendizagem prática proveniente) do NerdOS
+- Reforçar meu SQL com agregações, ordenações e (se possível) Joins
