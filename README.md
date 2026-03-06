@@ -8,7 +8,8 @@
   - [Estado Atual](#estado-atual)
   - [O Plano](#o-plano)
   - [Conhecimentos Adquiridos](#conhecimentos-adquiridos)
-  - [Cronologia do Aprendizado](#cronologia-do-aprendizado)
+  - [Relatório do Aprendizado Mensal](#relatório-do-aprendizado-mensal)
+    - [Mês 1 \& 2](#mês-1--2)
 
 ---
 
@@ -28,6 +29,8 @@ Abordando os conhecimentos:
 
 - Git/Github (Básico/Intermediário)
 
+- Estrutura de Dados e Algoritmos (Básico)
+
 - Framework Backend (Básico)
 
 - SQL (Básico)
@@ -46,7 +49,7 @@ Abordando os conhecimentos:
 
 - Cloud Computing (nada)
 
-Percebeu algo? A maioria dos conhecimentos que eu deveria ter intermediário, estão como básico (Framework, SQL, API REST) e **todos** os que eu deveria ter uma noção básica, ainda não sei nada. A barreira de entrada do mercado dev hoje está cruel.
+Percebeu algo? A maioria dos conhecimentos que eu deveria ter intermediário, estão como básico (DSA, Framework, SQL, API REST) e **todos** os que eu deveria ter uma noção básica, ainda não sei nada. A barreira de entrada do mercado dev hoje está cruel.
 
 E é *por isso mesmo* que eu bolei um plano base de 2 anos (iniciando em 2026) ***realístico*** e alinhado com meus ***objetivos, ocupações atuais, possíveis distrações futuras e tópicos de estudo necessários***, sendo possível expandir para mais tempo caso necessário. É uma estratégia de ataque orientada a projetos práticos, onde na marra vou aplicar tudo que não sei ainda e melhorar o que já sei, do jeitinho que eu gosto.
 
@@ -89,31 +92,33 @@ Esse plano é apenas uma base de referência que pode se estender por mais tempo
 
 Aqui será o índice para todos os arquivos localizados em [assuntos](./assuntos). Você também pode ver a minha experiência que adquiri nos meus [projetos](./projetos). Conforme eu for aprendendo, esses diretórios irão sendo populados.
 
-- [Assuntos](./assuntos)
+- [Assuntos](./assuntos/)
   
-  - [Git e Github](./assuntos/git-e-github)
-  
-  - [Framework (NestJS)](./assuntos/framework)
-  
-  - [SQL](./assuntos/sql)
-  
-  - [NoSQL](./assuntos/nosql)
-  
-  - [Conceitos de API REST](./assuntos/api-rest)
-  
-  - [Padrões e Arquitetura](./assuntos/padroes-e-arquitetura)
-  
-  - [Containerização (Docker)](./assuntos/docker)
-  
-  - [Testes Unitários e de Integração](./assuntos/testes)
-  
-  - [CI/CD](./assuntos/ci-cd)
-  
-  - [Microsserviços](./assuntos/microsservicos)
-  
-  - [Computação em Nuvem](./assuntos/cloud)
+  - [Git e Github](./assuntos/git-e-github/)
 
-- [Projetos Pessoais](./projetos)
+  - [Estrutura de Dados e Algoritmos](./assuntos/dsa/)
+  
+  - [Framework](./assuntos/frameworks/)
+  
+  - [SQL](./assuntos/sql/)
+  
+  - [NoSQL](./assuntos/nosql/)
+  
+  - [Conceitos de API REST](./assuntos/api-rest/)
+  
+  - [Padrões e Arquitetura](./assuntos/padroes-e-arquitetura/)
+  
+  - [Containerização (Docker)](./assuntos/docker/)
+  
+  - [Testes Unitários e de Integração](./assuntos/testes/)
+  
+  - [CI/CD](./assuntos/ci-cd/)
+  
+  - [Microsserviços](./assuntos/microsservicos/)
+  
+  - [Computação em Nuvem](./assuntos/cloud/)
+
+- [Projetos Pessoais](./projetos/)
   
   - [Tasksmith](./projetos/Tasksmith.md)
   
@@ -139,4 +144,5 @@ Agora, com o início do 3º mês, os focos serão:
 
 - Adaptação ao ambiente universitário
 - Foco no desenvolvimento (e aprendizagem prática proveniente) do NerdOS
-- Reforçar meu SQL com agregações, ordenações e (se possível) Joins
+- Estudar, a partir do livro "Entendendo Algoritmos", Estrutura de Dados e Algoritmos
+- **(não prioritário)** Reforçar meu SQL com agregações, ordenações e (se possível) Joins
