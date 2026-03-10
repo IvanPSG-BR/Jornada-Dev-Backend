@@ -16,7 +16,7 @@ Para saber o nome de **todos** os fãs, que é seu objetivo, você precisa pergu
 
 O(n) significa que o tempo cresce de forma linear de acordo com o número de "entradas" (fãs, nesse caso). Se um fã demora 10s para saber o nome, 10 fãs demoram 100s, 100 fãs são 1000s e assim sucessivamente.
 
-![](big-o-exemplo-1.png|610)
+![](./imgs/big-o-exemplo-1.png|610)
 
 ### Tempo Constante - O(1)
 
@@ -26,7 +26,7 @@ Não importa se vão aparecer 20, 50, 100, 1000 clientes, ***a promoção só co
 
 Portanto, o número de entradas (clientes) pode ser de toda a população humana, mas não vai importar, porque esse "Algoritmo" vai pegar APENAS os 20 primeiros; isso é O(1)
 
-![](big-o-exemplo-2.png|610)
+![](./imgs/big-o-exemplo-2.png|610)
 
 ### Tempo Logarítmico - O(log n)
 
@@ -41,7 +41,7 @@ Agora, raciocine um pouco: o que você acha que aconteceria caso o sistema lesse
 Porém, existe uma maneira mais rápido do que essa denominada "busca simples". A **[Busca Binária](./Busca-Binaria.md)**...
 
 Spoiler:
-![](big-o-exemplo-3.png)
+![](./imgs/big-o-exemplo-3.png)
 
 ### Tempo Linear-Logarítmico - O(n log n)
 

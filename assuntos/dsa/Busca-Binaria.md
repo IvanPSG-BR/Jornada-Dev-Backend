@@ -38,5 +38,28 @@ E repara que, se não houvesse ordenação por alfabeto (ou qualquer outro tipo 
 
 Ou seja, se a loja tiver 10000 produtos, ao invés de "verifica se é xícara; não é? Passa pro próximo" 10000 vezes no máximo, esse número é reduzido para incríveis cerca de 13 vezes (no pior dos casos)!
 
+## Implementação
+
+``` typescript
+function binarySearch(nums: number[], target: number): number {
+  let start = 0; // Primeiro índice, início do array
+  let end = nums.length - 1; // Último índice, final do array
+
+  while (start <= end) {
+    let mid = Math.floor((start + end) / 2); // Cálculo que encontra e normaliza o meio do array
+
+    if (nums[mid] == target) { // Se já for o número do índice buscado, retorna logo.
+      return mid;
+    } else if (nums[mid] < target) { // Se o meio for menor do que está "à direita", o início do array vai uma posição para a direita
+      start = mid + 1;
+    } else {
+      end = mid - 1; // Se for maior, o fim vai uma posição para a esquerda
+    }
+  } // Repete o processo com o valor do início/fim mudado, alterando o resultado do cálculo
+
+  return -1; // Se não encontrado, retorna -1 (o padrão seria `null`)
+}
+```
+
 ---
 *Essa é a Busca Binária!*
